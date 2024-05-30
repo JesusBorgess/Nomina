@@ -1,0 +1,11 @@
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\bin\Debug\net8.0\Nominal.Model.deps.json
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\bin\Debug\net8.0\Nominal.Model.dll
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\bin\Debug\net8.0\Nominal.Model.pdb
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\Nominal.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\Nominal.Model.AssemblyInfoInputs.cache
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\Nominal.Model.AssemblyInfo.cs
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\Nominal.Model.csproj.CoreCompileInputs.cache
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\Nominal.Model.dll
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\refint\Nominal.Model.dll
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\Nominal.Model.pdb
+C:\Users\walmart\OneDrive\Escritorio\Nomina\Nomina\Nominal.Model\obj\Debug\net8.0\ref\Nominal.Model.dll
